@@ -1,0 +1,4 @@
+pandas
+mysql-connector
+pytz
+psycopg2-binary
