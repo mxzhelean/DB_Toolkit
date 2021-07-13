@@ -1,7 +1,7 @@
 import psycopg2
 import pandas as pd
 import Config
-from ..util.data_util import cache_to_file
+from ..util.wrangler import cache_to_file
 
 config = Config('pgsql', ['user', 'password', 'host', 'database'])
 
