@@ -1,7 +1,7 @@
-# MySQL_Toolkit
+# Database ETL Toolkit
  Inspired by the Udemy course (SQL - MySQL for Data Analytics and Business Intelligence)
 </br>
-A place holder for personal use that tracks SQL queries in git.
+A place holder for personal use that tracks Postregsql/MySQL queries in git.
 Rules follow as:
 </br>
 1. I will always need that query again; </br>
